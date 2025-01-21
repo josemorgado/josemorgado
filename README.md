@@ -26,8 +26,6 @@ Actualmente estoy trabajando en:
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=josemorgado&layout=compact&theme=radical)
 
-![GitHub Badge](https://img.shields.io/badge/GitHub-josemorgado-blue)
-
 
 ## 📬 Conecta conmigo
 
@@ -36,3 +34,6 @@ Actualmente estoy trabajando en:
 ---
 
 > "El código es como el lenguaje humano: fluido, flexible y siempre en evolución."
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-josemorgado-blue)
+
