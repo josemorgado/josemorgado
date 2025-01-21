@@ -22,12 +22,12 @@ Actualmente estoy trabajando en:
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josemorgado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📬 Conecta conmigo
 
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/jose-morgado-prudencio-79b539257)
-- **Email**: [tu_email@example.com](josemaria1.jmmp@gmail.com@gmail.com)
+- [LINKEDIN](https://www.linkedin.com/in/jose-morgado-prudencio-79b539257)
+- [GMAIL](josemaria1.jmmp@gmail.com)
 ---
 
 > "El código es como el lenguaje humano: fluido, flexible y siempre en evolución."
