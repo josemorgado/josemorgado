@@ -24,6 +24,11 @@ Actualmente estoy trabajando en:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josemorgado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=josemorgado&layout=compact&theme=radical)
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-josemorgado-blue)
+
+
 ## 📬 Conecta conmigo
 
 - [LINKEDIN](https://www.linkedin.com/in/jose-morgado-prudencio-79b539257)
