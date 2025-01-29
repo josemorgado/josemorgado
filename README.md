@@ -16,9 +16,8 @@ Puedes ver todos mis proyectos en mi perfil de GitHub y explorar el código que 
 
 ## 🌱 En qué estoy trabajando ahora
 
-Actualmente estoy trabajando en:
-- Mejorar mis habilidades en **Machine Learning**.
-- Desarrollar aplicaciones más eficientes y optimizadas con **Django** y **Flask**.
+Actualmente estoy trabajando en actualizar mi perfil de github ya que, en mi universidad de destino en Lodz (PLN) 
+no hemos usado github y debo cargar aun los proyectos realizados.
 
 ## 📈 Estadísticas de GitHub
 
