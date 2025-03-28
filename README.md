@@ -7,7 +7,7 @@ Soy un **estudiante de Ingenieria del Software** en la Universidad de Sevilla. M
 ¡Aquí tienes algunas de las tecnologías que domino y con las que me encanta trabajar!
 
 - **Lenguajes de Programación**: Python, JavaScript, HTML/CSS, SQL
-- **Frameworks**: Django, Flask, React
+- **Frameworks**: Spring Boot, Django, Flask, React
 - **Bases de Datos**: MariaDB, MySQL, SQLite
 - **Herramientas de Desarrollo**: Docker, Git, GitHub, VS Code
 - **Otros**: APIs RESTful, Testing (pytest, Selenium), CI/CD
