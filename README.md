@@ -16,8 +16,7 @@ Puedes ver todos mis proyectos en mi perfil de GitHub y explorar el código que 
 
 ## 🌱 En qué estoy trabajando ahora
 
-Actualmente estoy trabajando en actualizar mi perfil de github ya que, en mi universidad de destino en Lodz (PLN) 
-no hemos usado github y debo cargar aun los proyectos realizados.
+Actualmente estoy buscando oportunidades de prácticas en ingeniería de software para aplicar mis conocimientos en desarrollo web, bases de datos y automatización, y seguir aprendiendo en entornos profesionales.
 
 ## 📈 Estadísticas de GitHub
 
